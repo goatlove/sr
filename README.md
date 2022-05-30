@@ -1,0 +1,2 @@
+# sr
+Rules-Shadowrocket
